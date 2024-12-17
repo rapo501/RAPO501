@@ -1,5 +1,5 @@
 - 👋 Hi there,
-- 📛 my name is Ramarao Ponaganti
+- 📛 my name is Ramarao Ponaganti (RAPO)
 - 👀 My primary interest includes Azure, Kubernates, IaC, CI/CD , aws
 - 🌱 I’m currently learning SRE
 - 📫 How to reach me via email: itsmeramarao43@gmail.com
